@@ -12,23 +12,14 @@
 .features-card {
   width: calc((100% - 72px) / 4);
 }
-/* common.css */
-/* .section-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-} */
 
-/* .card-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  color: #2e2f42;
-} */
-
-/* .card-text {
-  line-height: 1.5;
-} */
+.features-wrapper {
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  background: #f4f4fd;
+  margin-bottom: 8px;
+}
+.features-icon {
+  display: block;
+  margin: 24px auto;
+}
