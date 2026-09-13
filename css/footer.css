@@ -16,3 +16,19 @@
   display: inline-block;
   margin-bottom: 16px;
 }
+
+.footer .container {
+  display: flex;
+}
+
+.footer-wrapper {
+  margin-right: 120px;
+}
+
+.footer .logo {
+  margin-bottom: 16px;
+}
+
+footer .card-socials-icon:hover {
+  background-color: #31d0aa;
+}
