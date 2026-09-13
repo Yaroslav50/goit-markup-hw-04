@@ -1,0 +1,34 @@
+.features {
+  letter-spacing: 0.02em;
+}
+
+.features-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+}
+
+.features-card {
+  width: calc((100% - 72px) / 4);
+}
+/* common.css */
+/* .section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+} */
+
+/* .card-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+} */
+
+/* .card-text {
+  line-height: 1.5;
+} */
