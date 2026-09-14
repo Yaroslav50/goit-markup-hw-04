@@ -7,7 +7,6 @@
 .footer-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
   max-width: 264px;
 }
 
@@ -29,6 +28,18 @@
   margin-bottom: 16px;
 }
 
-footer .card-socials-icon:hover {
+.footer-socials-caption {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  margin-bottom: 16px;
+  color: #fff;
+}
+
+.footer .card-socials-list {
+  gap: 16px;
+}
+.footer .card-socials-icon:hover,
+.footer .card-socials-icon:focus {
   background-color: #31d0aa;
 }
